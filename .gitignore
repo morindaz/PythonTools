@@ -1,0 +1,6 @@
+*.jpg
+*.pyc
+*.hdf5
+*.png
+.idea
+.cache
